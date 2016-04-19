@@ -1,0 +1,1798 @@
+2013-03-13 20:06:19 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/var/www/sms/app/Controller/PagesController.php, line 50]
+2013-03-13 20:06:19 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 50)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 50, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 50, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-13 20:16:17 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:16:20 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:16:21 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:17:57 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:17:58 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:00 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:10 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:11 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:18 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:19 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:22 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:29 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:41 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:18:43 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:19:18 Error: [MissingViewException] View file "/var/www/sms/app/View/Pages/faqs.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Pages/faqs.ctp',
+)
+Request URL: /pages/faqs
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName('faqs')
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render('faqs', NULL)
+#2 /var/www/sms/app/Controller/PagesController.php(78): Controller->render('faqs')
+#3 [internal function]: PagesController->display('faqs')
+#4 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-03-13 20:19:26 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:19:26 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:19:29 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:34:25 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/login.ctp',
+)
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-13 20:56:40 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-13 21:10:28 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /users/img/gplus.png
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-13 21:10:28 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /users/img/face.png
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-13 21:10:28 Error: [MissingActionException] Action UsersController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'img',
+)
+Request URL: /users/img/twt.png
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-13 21:10:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/signin_icos.png
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-13 21:23:04 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-19 20:26:44 Error: [MissingViewException] View file "/var/www/sms/app/View/Pages/faqs.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Pages/faqs.ctp',
+)
+Request URL: /pages/faqs
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName('faqs')
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render('faqs', NULL)
+#2 /var/www/sms/app/Controller/PagesController.php(78): Controller->render('faqs')
+#3 [internal function]: PagesController->display('faqs')
+#4 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-03-19 20:26:45 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-19 20:26:46 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-22 18:23:41 Error: [MissingViewException] View file "/var/www/sms/app/View/Pages/faqs.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Pages/faqs.ctp',
+)
+Request URL: /pages/faqs
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName('faqs')
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render('faqs', NULL)
+#2 /var/www/sms/app/Controller/PagesController.php(78): Controller->render('faqs')
+#3 [internal function]: PagesController->display('faqs')
+#4 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-03-22 18:23:42 Error: [MissingViewException] View file "/var/www/sms/app/View/Pages/faqs.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Pages/faqs.ctp',
+)
+Request URL: /pages/faqs
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName('faqs')
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render('faqs', NULL)
+#2 /var/www/sms/app/Controller/PagesController.php(78): Controller->render('faqs')
+#3 [internal function]: PagesController->display('faqs')
+#4 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-03-22 18:23:43 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-22 18:33:11 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/sms/app/View/Elements/menu.ctp, line 11]
+2013-03-22 18:33:11 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/sms/ap...', 11)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/sms/ap...', 11, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/sms/ap...', 11, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-22 18:33:20 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Auth')
+#1 /var/www/sms/lib/Cake/View/View.php(836): HelperCollection->__isset('Auth')
+#2 /var/www/sms/app/View/Elements/menu.ctp(11): View->__get('Auth')
+#3 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#4 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#5 /var/www/sms/lib/Cake/View/View.php(1211): View->_render('/var/www/sms/ap...', Array)
+#6 /var/www/sms/lib/Cake/View/View.php(414): View->_renderElement('/var/www/sms/ap...', Array, Array)
+#7 /var/www/sms/app/View/Layouts/default.ctp(44): View->element('menu')
+#8 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#9 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#10 /var/www/sms/lib/Cake/View/View.php(535): View->_render('/var/www/sms/ap...')
+#11 /var/www/sms/lib/Cake/View/View.php(479): View->renderLayout('', 'default')
+#12 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#13 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#14 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-03-22 18:33:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 18:33:20 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Auth')
+#1 /var/www/sms/lib/Cake/View/View.php(836): HelperCollection->__isset('Auth')
+#2 /var/www/sms/app/View/Elements/menu.ctp(11): View->__get('Auth')
+#3 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#4 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#5 /var/www/sms/lib/Cake/View/View.php(1211): View->_render('/var/www/sms/ap...', Array)
+#6 /var/www/sms/lib/Cake/View/View.php(414): View->_renderElement('/var/www/sms/ap...', Array, Array)
+#7 /var/www/sms/app/View/Layouts/default.ctp(44): View->element('menu')
+#8 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#9 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#10 /var/www/sms/lib/Cake/View/View.php(535): View->_render('/var/www/sms/ap...')
+#11 /var/www/sms/lib/Cake/View/View.php(479): View->renderLayout('', 'default')
+#12 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#13 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#14 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-03-22 18:33:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 18:33:21 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Auth')
+#1 /var/www/sms/lib/Cake/View/View.php(836): HelperCollection->__isset('Auth')
+#2 /var/www/sms/app/View/Elements/menu.ctp(11): View->__get('Auth')
+#3 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#4 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#5 /var/www/sms/lib/Cake/View/View.php(1211): View->_render('/var/www/sms/ap...', Array)
+#6 /var/www/sms/lib/Cake/View/View.php(414): View->_renderElement('/var/www/sms/ap...', Array, Array)
+#7 /var/www/sms/app/View/Layouts/default.ctp(44): View->element('menu')
+#8 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#9 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#10 /var/www/sms/lib/Cake/View/View.php(535): View->_render('/var/www/sms/ap...')
+#11 /var/www/sms/lib/Cake/View/View.php(479): View->renderLayout('', 'default')
+#12 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#13 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#14 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-03-22 18:33:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 18:33:51 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(885): HelperCollection->load('Auth', Array)
+#1 /var/www/sms/lib/Cake/View/View.php(464): View->loadHelpers()
+#2 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-03-22 18:33:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 18:33:53 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(885): HelperCollection->load('Auth', Array)
+#1 /var/www/sms/lib/Cake/View/View.php(464): View->loadHelpers()
+#2 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#5 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-03-22 18:33:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 18:34:08 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Auth')
+#1 /var/www/sms/lib/Cake/View/View.php(836): HelperCollection->__isset('Auth')
+#2 /var/www/sms/app/View/Elements/menu.ctp(11): View->__get('Auth')
+#3 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#4 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#5 /var/www/sms/lib/Cake/View/View.php(1211): View->_render('/var/www/sms/ap...', Array)
+#6 /var/www/sms/lib/Cake/View/View.php(414): View->_renderElement('/var/www/sms/ap...', Array, Array)
+#7 /var/www/sms/app/View/Layouts/default.ctp(44): View->element('menu')
+#8 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#9 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#10 /var/www/sms/lib/Cake/View/View.php(535): View->_render('/var/www/sms/ap...')
+#11 /var/www/sms/lib/Cake/View/View.php(479): View->renderLayout('', 'default')
+#12 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#13 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#14 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-03-22 18:34:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 18:35:07 Error: [MissingViewException] View file "/var/www/sms/app/View/Pages/faqs.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Pages/faqs.ctp',
+)
+Request URL: /pages/faqs
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName('faqs')
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render('faqs', NULL)
+#2 /var/www/sms/app/Controller/PagesController.php(78): Controller->render('faqs')
+#3 [internal function]: PagesController->display('faqs')
+#4 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-03-22 18:35:08 Error: [MissingViewException] View file "/var/www/sms/app/View/Pages/contact.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Pages/contact.ctp',
+)
+Request URL: /pages/contact
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName('contact')
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render('contact', NULL)
+#2 /var/www/sms/app/Controller/PagesController.php(78): Controller->render('contact')
+#3 [internal function]: PagesController->display('contact')
+#4 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-03-22 18:35:35 Error: [MissingActionException] Action UsersController::sign-up.html() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'sign-up.html',
+)
+Request URL: /users/sign-up.html
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-22 18:50:12 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(35): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-03-22 18:52:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(35): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-03-22 18:53:01 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(35): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-10 09:09:53 Error: Fatal Error (4): syntax error, unexpected '?' in [/var/www/sms/app/View/Elements/message.ctp, line 1]
+2013-04-10 09:09:53 Error: [FatalErrorException] syntax error, unexpected '?'
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 1)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:10:08 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/View/Elements/message.ctp, line 1]
+2013-04-10 09:10:08 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 1)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:10:18 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/sms/app/View/Elements/message.ctp, line 1]
+2013-04-10 09:10:18 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 1)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:10:28 Error: Fatal Error (4): syntax error, unexpected ':' in [/var/www/sms/app/View/Elements/message.ctp, line 1]
+2013-04-10 09:10:28 Error: [FatalErrorException] syntax error, unexpected ':'
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 1)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 1, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:18:17 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(35): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-10 09:24:03 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(35): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-10 09:24:49 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(35): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-10 09:28:29 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(35): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-10 09:32:53 Error: Fatal Error (1): Call to undefined method SessionComponent::redirect() in [/var/www/sms/app/Controller/UsersController.php, line 14]
+2013-04-10 09:32:53 Error: [FatalErrorException] Call to undefined method SessionComponent::redirect()
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 14, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 14, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:32:58 Error: Fatal Error (1): Call to undefined method SessionComponent::redirect() in [/var/www/sms/app/Controller/UsersController.php, line 14]
+2013-04-10 09:32:58 Error: [FatalErrorException] Call to undefined method SessionComponent::redirect()
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 14, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 14, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:33:21 Error: Fatal Error (1): Call to undefined method SessionComponent::redirect() in [/var/www/sms/app/Controller/UsersController.php, line 14]
+2013-04-10 09:33:21 Error: [FatalErrorException] Call to undefined method SessionComponent::redirect()
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 14, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 14, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:33:27 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/verify_account.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/verify_account.ctp',
+)
+Request URL: /users/verifyAccount
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-10 09:38:39 Error: Fatal Error (4): syntax error, unexpected '{' in [/var/www/sms/app/Controller/UsersController.php, line 12]
+2013-04-10 09:38:39 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /users/verifyAccount
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 12, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 12, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:38:57 Error: Fatal Error (4): syntax error, unexpected '{' in [/var/www/sms/app/Controller/UsersController.php, line 12]
+2013-04-10 09:38:57 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /users/verifyAccount
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 12, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 12, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:39:00 Error: Fatal Error (4): syntax error, unexpected '{' in [/var/www/sms/app/Controller/UsersController.php, line 12]
+2013-04-10 09:39:00 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /users/verifyAccount
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 12, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 12, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:40:37 Error: Fatal Error (1): Call to undefined method SessionComponent::redirect() in [/var/www/sms/app/Controller/UsersController.php, line 38]
+2013-04-10 09:40:37 Error: [FatalErrorException] Call to undefined method SessionComponent::redirect()
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 38, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 38, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:45:06 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/sms/app/Model/User.php, line 189]
+2013-04-10 09:45:06 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 189)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 189, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 189, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:46:16 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-10 09:46:22 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-10 09:46:33 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-10 09:52:52 Error: Fatal Error (4): syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in [/var/www/sms/app/Controller/AppController.php, line 41]
+2013-04-10 09:52:52 Error: [FatalErrorException] syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')'
+Request URL: /users/login
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 41)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 41, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 41, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-10 09:53:33 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-15 19:21:58 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-15 19:28:45 Error: Fatal Error (4): syntax error, unexpected ')', expecting ']' in [/var/www/sms/app/Controller/UsersController.php, line 36]
+2013-04-15 19:28:45 Error: [FatalErrorException] syntax error, unexpected ')', expecting ']'
+Request URL: /users/logout
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 36, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 36, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-15 19:32:07 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/lib/Cake/Model/Model.php(1592): Model->save(Array, Array)
+#5 /var/www/sms/app/Controller/UsersController.php(39): Model->saveField('verficication_c...', 'b079c')
+#6 [internal function]: UsersController->register()
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-04-15 19:32:45 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id' at line 1
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('id', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('id', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(612): DboSource->fetchAll('id', Array, Array)
+#4 /var/www/sms/lib/Cake/Model/Model.php(800): DboSource->query('id', Array, Object(User))
+#5 /var/www/sms/app/Controller/UsersController.php(38): Model->__call('id', Array)
+#6 /var/www/sms/app/Controller/UsersController.php(38): User->id(NULL)
+#7 [internal function]: UsersController->register()
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-04-15 19:35:47 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(39): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-15 19:40:05 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/UsersController.php, line 39]
+2013-04-15 19:40:05 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /users/logout
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 39, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 39, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-15 19:40:06 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/UsersController.php, line 39]
+2013-04-15 19:40:06 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /users/logout
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 39, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 39, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-15 19:41:08 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /users/
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-15 19:41:51 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`users`, CONSTRAINT `fk_users_sms_plans1` FOREIGN KEY (`sms_plan_id`) REFERENCES `sms_plans` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(User), Array, Array)
+#4 /var/www/sms/app/Controller/UsersController.php(41): Model->save(Array)
+#5 [internal function]: UsersController->register()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-16 19:23:20 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-16 19:24:54 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-16 19:46:58 Error: Fatal Error (1): Call to undefined method App::Registry() in [/var/www/sms/app/Controller/AppController.php, line 54]
+2013-04-16 19:46:58 Error: [FatalErrorException] Call to undefined method App::Registry()
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 54)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 54, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 54, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-16 19:48:44 Error: Fatal Error (1): Call to undefined function deubg() in [/var/www/sms/app/Controller/AppController.php, line 55]
+2013-04-16 19:48:44 Error: [FatalErrorException] Call to undefined function deubg()
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 55, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 55, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-06 19:09:11 Error: Fatal Error (4): syntax error, unexpected T_RETURN in [/var/www/sms/app/Controller/AppController.php, line 58]
+2013-06-06 19:09:11 Error: [FatalErrorException] syntax error, unexpected T_RETURN
+Request URL: /
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 58, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 58, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-06 19:31:21 Error: Fatal Error (4): syntax error, unexpected '~' in [/var/www/sms/app/View/Elements/menu.ctp, line 15]
+2013-06-06 19:31:21 Error: [FatalErrorException] syntax error, unexpected '~'
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 15, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 15, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-06 20:07:50 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`sms`.`sms_outbox`, CONSTRAINT `fk_sms_outbox_users1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sm...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `sm...')
+#3 /var/www/sms/lib/Cake/Model/Model.php(1736): DboSource->create(Object(SmsOutbox), Array, Array)
+#4 /var/www/sms/app/Controller/SmsOutboxesController.php(43): Model->save(Array)
+#5 [internal function]: SmsOutboxesController->add()
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(SmsOutboxesController), Array)
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(SmsOutboxesController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-06-07 10:02:58 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/reset_password.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/reset_password.ctp',
+)
+Request URL: /users/resetPassword
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-06-07 22:07:53 Error: [MissingBehaviorException] Behavior class Behavior could not be found.
+Exception Attributes: array (
+  'class' => 'Behavior',
+  'plugin' => '',
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/BehaviorCollection.php(82): BehaviorCollection->load(Array, Array)
+#1 /var/www/sms/app/Controller/UsersController.php(40): BehaviorCollection->attach(Array)
+#2 [internal function]: UsersController->register()
+#3 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#4 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#5 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#6 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2013-06-07 23:02:42 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/reset_password.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/reset_password.ctp',
+)
+Request URL: /users/resetPassword
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-06-07 23:39:58 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 10]
+2013-06-07 23:39:58 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:40:10 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 10]
+2013-06-07 23:40:10 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:40:11 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 10]
+2013-06-07 23:40:11 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:40:22 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 10]
+2013-06-07 23:40:22 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:40:31 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 10]
+2013-06-07 23:40:31 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:42:03 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 10]
+2013-06-07 23:42:03 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:42:34 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 10]
+2013-06-07 23:42:34 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 10, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:42:58 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 14]
+2013-06-07 23:42:58 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 14, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 14, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:43:40 Error: Fatal Error (4): syntax error, unexpected T_VARIABLE in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 11]
+2013-06-07 23:43:40 Error: [FatalErrorException] syntax error, unexpected T_VARIABLE
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 11, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 11, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:44:00 Error: Fatal Error (4): syntax error, unexpected $end, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 49]
+2013-06-07 23:44:00 Error: [FatalErrorException] syntax error, unexpected $end, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 49, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 49, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:44:58 Error: Fatal Error (4): syntax error, unexpected $end, expecting T_FUNCTION in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 49]
+2013-06-07 23:44:58 Error: [FatalErrorException] syntax error, unexpected $end, expecting T_FUNCTION
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 49, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 49, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-07 23:45:18 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SmsOutboxes.user_id' in 'where clause'
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `SmsOutb...', Array)
+#2 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `SmsOutb...', Array, Array)
+#3 /var/www/sms/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `SmsOutb...', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(2688): DboSource->read(Object(SmsOutbox), Array)
+#5 /var/www/sms/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#7 /var/www/sms/app/Controller/SmsOutboxesController.php(21): Controller->paginate()
+#8 [internal function]: SmsOutboxesController->index()
+#9 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(SmsOutboxesController), Array)
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(SmsOutboxesController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-06-08 00:08:29 Error: [MissingTableException] Table credit_histories for model CreditHistory was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'credit_histories',
+  'class' => 'CreditHistory',
+  'ds' => 'default',
+)
+Request URL: /admin/users
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Model.php(3231): Model->setSource('credit_historie...')
+#1 /var/www/sms/lib/Cake/Model/Model.php(1319): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Model/Model.php(1402): Model->schema()
+#3 /var/www/sms/lib/Cake/Model/Model.php(1390): Model->hasField('title', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(879): Model->hasField(Array)
+#5 /var/www/sms/lib/Cake/Controller/Scaffold.php(432): Model->__get('displayField')
+#6 /var/www/sms/lib/Cake/Controller/Scaffold.php(138): Scaffold->_associations()
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(531): Scaffold->__construct(Object(UsersController), Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-06-08 00:09:04 Error: [MissingTableException] Table credit_histories for model CreditHistory was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'credit_histories',
+  'class' => 'CreditHistory',
+  'ds' => 'default',
+)
+Request URL: /admin/users/view/29
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Model.php(3231): Model->setSource('credit_historie...')
+#1 /var/www/sms/lib/Cake/Model/Model.php(1319): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Model/Model.php(1402): Model->schema()
+#3 /var/www/sms/lib/Cake/Model/Model.php(1390): Model->hasField('title', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(879): Model->hasField(Array)
+#5 /var/www/sms/lib/Cake/Controller/Scaffold.php(432): Model->__get('displayField')
+#6 /var/www/sms/lib/Cake/Controller/Scaffold.php(138): Scaffold->_associations()
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(531): Scaffold->__construct(Object(UsersController), Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Controller/Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-06-08 00:43:18 Error: [MissingTableException] Table sms for model sms was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'sms',
+  'class' => 'sms',
+  'ds' => 'default',
+)
+Request URL: /users/register
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Model.php(3231): Model->setSource('sms')
+#1 /var/www/sms/lib/Cake/Model/Model.php(800): Model->getDataSource()
+#2 /var/www/sms/app/Controller/UsersController.php(35): Model->__call('checkBalance', Array)
+#3 /var/www/sms/app/Controller/UsersController.php(35): AppModel->checkBalance('US')
+#4 [internal function]: UsersController->register()
+#5 /var/www/sms/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-06-08 00:57:21 Error: [MissingControllerException] Controller class SwqrController could not be found.
+Exception Attributes: array (
+  'class' => 'SwqrController',
+  'plugin' => NULL,
+)
+Request URL: /Swqr
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-08 01:03:14 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/UsersController.php, line 37]
+2013-06-08 01:03:14 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /users/logout
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 37, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 37, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 01:07:05 Error: Fatal Error (1): Call to undefined method UsersController::reidrect() in [/var/www/sms/app/Controller/UsersController.php, line 71]
+2013-06-08 01:07:05 Error: [FatalErrorException] Call to undefined method UsersController::reidrect()
+Request URL: /users/verifyAccount
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 71)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 71, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 71, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 01:07:35 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /user
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-08 01:07:47 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /user
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-08 01:15:15 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/sms/app/Controller/UsersController.php, line 59]
+2013-06-08 01:15:15 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /users/verifyAccount
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 59, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 59, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 01:15:32 Error: Fatal Error (1): Call to a member function saveAll() on a non-object in [/var/www/sms/app/Controller/UsersController.php, line 59]
+2013-06-08 01:15:32 Error: [FatalErrorException] Call to a member function saveAll() on a non-object
+Request URL: /users/verifyAccount
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 59)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 59, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 59, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 01:17:51 Error: [MissingControllerException] Controller class SmsoutboxesController could not be found.
+Exception Attributes: array (
+  'class' => 'SmsoutboxesController',
+  'plugin' => NULL,
+)
+Request URL: /smsoutboxes
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-08 01:20:16 Error: Fatal Error (4): syntax error, unexpected T_DOUBLE_ARROW in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 33]
+2013-06-08 01:20:16 Error: [FatalErrorException] syntax error, unexpected T_DOUBLE_ARROW
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 33, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 33, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 01:22:33 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 36]
+2013-06-08 01:22:33 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 36, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 36, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 01:32:02 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 61]
+2013-06-08 01:32:02 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 61)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 61, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 61, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 02:37:39 Error: Fatal Error (1): Call to undefined method AuthComponent::disallow() in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 16]
+2013-06-08 02:37:39 Error: [FatalErrorException] Call to undefined method AuthComponent::disallow()
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 16, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 16, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 02:37:41 Error: Fatal Error (1): Call to undefined method AuthComponent::disallow() in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 16]
+2013-06-08 02:37:41 Error: [FatalErrorException] Call to undefined method AuthComponent::disallow()
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 16, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 16, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 02:37:42 Error: Fatal Error (1): Call to undefined method AuthComponent::disallow() in [/var/www/sms/app/Controller/SmsOutboxesController.php, line 16]
+2013-06-08 02:37:42 Error: [FatalErrorException] Call to undefined method AuthComponent::disallow()
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/sms/ap...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/sms/ap...', 16, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/sms/ap...', 16, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 02:50:44 Error: Fatal Error (4): syntax error, unexpected T_PUBLIC in [/var/www/sms/app/Config/bootstrap.php, line 116]
+2013-06-08 02:50:44 Error: [FatalErrorException] syntax error, unexpected T_PUBLIC
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 116)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 116, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 116, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 02:51:44 Error: Fatal Error (4): syntax error, unexpected T_PUBLIC in [/var/www/sms/app/Config/bootstrap.php, line 116]
+2013-06-08 02:51:44 Error: [FatalErrorException] syntax error, unexpected T_PUBLIC
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 116)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 116, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 116, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 02:51:58 Error: Fatal Error (1): Using $this when not in object context in [/var/www/sms/app/Config/bootstrap.php, line 119]
+2013-06-08 02:51:58 Error: [FatalErrorException] Using $this when not in object context
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/var/www/sms/ap...', 119)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/var/www/sms/ap...', 119, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/var/www/sms/ap...', 119, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-08 03:08:08 Error: [MissingTableException] Table sms for model Sm was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'sms',
+  'class' => 'Sm',
+  'ds' => 'default',
+)
+Request URL: /admin/sms
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Model.php(3231): Model->setSource('sms')
+#1 /var/www/sms/lib/Cake/Model/Model.php(1319): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Model/Model.php(1402): Model->schema()
+#3 /var/www/sms/lib/Cake/Model/Model.php(1390): Model->hasField('title', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(879): Model->hasField(Array)
+#5 /var/www/sms/lib/Cake/Controller/Scaffold.php(132): Model->__get('displayField')
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(531): Scaffold->__construct(Object(SmsController), Object(CakeRequest))
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(SmsController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-06-12 09:38:17 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Auth')
+#1 /var/www/sms/lib/Cake/View/View.php(836): HelperCollection->__isset('Auth')
+#2 /var/www/sms/app/View/Elements/menu.ctp(19): View->__get('Auth')
+#3 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#4 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#5 /var/www/sms/lib/Cake/View/View.php(1211): View->_render('/var/www/sms/ap...', Array)
+#6 /var/www/sms/lib/Cake/View/View.php(414): View->_renderElement('/var/www/sms/ap...', Array, Array)
+#7 /var/www/sms/app/View/Layouts/default.ctp(33): View->element('menu')
+#8 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#9 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#10 /var/www/sms/lib/Cake/View/View.php(535): View->_render('/var/www/sms/ap...')
+#11 /var/www/sms/lib/Cake/View/View.php(479): View->renderLayout('', 'default')
+#12 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#13 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#14 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(SmsOutboxesController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-06-12 09:38:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-12 09:38:20 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/HelperCollection.php(63): HelperCollection->load('Auth')
+#1 /var/www/sms/lib/Cake/View/View.php(836): HelperCollection->__isset('Auth')
+#2 /var/www/sms/app/View/Elements/menu.ctp(19): View->__get('Auth')
+#3 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#4 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#5 /var/www/sms/lib/Cake/View/View.php(1211): View->_render('/var/www/sms/ap...', Array)
+#6 /var/www/sms/lib/Cake/View/View.php(414): View->_renderElement('/var/www/sms/ap...', Array, Array)
+#7 /var/www/sms/app/View/Layouts/default.ctp(33): View->element('menu')
+#8 /var/www/sms/lib/Cake/View/View.php(948): include('/var/www/sms/ap...')
+#9 /var/www/sms/lib/Cake/View/View.php(910): View->_evaluate('/var/www/sms/ap...', Array)
+#10 /var/www/sms/lib/Cake/View/View.php(535): View->_render('/var/www/sms/ap...')
+#11 /var/www/sms/lib/Cake/View/View.php(479): View->renderLayout('', 'default')
+#12 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#13 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#14 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(SmsOutboxesController), Object(CakeRequest), Object(CakeResponse))
+#15 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-06-12 09:38:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/cake.generic.css
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-12 09:38:46 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /Admin
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-12 09:38:53 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /Admin
+Stack Trace:
+#0 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-12 09:54:36 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/AppController.php, line 59]
+2013-06-12 09:54:36 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:55:23 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/AppController.php, line 59]
+2013-06-12 09:55:23 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:56:05 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/AppController.php, line 59]
+2013-06-12 09:56:05 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:56:05 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/Controller/AppController.php, line 59]
+2013-06-12 09:56:05 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 59, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:58:08 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/sms/app/Controller/AppController.php, line 57]
+2013-06-12 09:58:08 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:58:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/sms/app/Controller/AppController.php, line 57]
+2013-06-12 09:58:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /SmsOutboxes/add
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:58:19 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/sms/app/Controller/AppController.php, line 57]
+2013-06-12 09:58:19 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /SmsOutboxes/
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:58:32 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/sms/app/Controller/AppController.php, line 57]
+2013-06-12 09:58:32 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /SmsOutboxes/
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:58:33 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/sms/app/Controller/AppController.php, line 57]
+2013-06-12 09:58:33 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /SmsOutboxes/
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 57, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 09:58:36 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/sms/app/Controller/AppController.php, line 56]
+2013-06-12 09:58:36 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /SmsOutboxes/
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/sms/ap...', 56)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/sms/ap...', 56, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/sms/ap...', 56, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 19:49:21 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/sms/app/View/Elements/menu.ctp, line 19]
+2013-06-12 19:49:21 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/sms/ap...', 19)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/sms/ap...', 19, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/sms/ap...', 19, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-12 19:49:22 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/sms/app/View/Elements/menu.ctp, line 19]
+2013-06-12 19:49:22 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/sms/ap...', 19)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/sms/ap...', 19, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/sms/ap...', 19, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-14 00:34:30 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/View/SmsOutboxes/index.ctp, line 21]
+2013-06-14 00:34:30 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-14 00:34:40 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/View/SmsOutboxes/index.ctp, line 21]
+2013-06-14 00:34:40 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-14 00:34:43 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/View/SmsOutboxes/index.ctp, line 21]
+2013-06-14 00:34:43 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-14 00:34:49 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/sms/app/View/SmsOutboxes/index.ctp, line 21]
+2013-06-14 00:34:49 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /SmsOutboxes
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/sms/ap...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#2 /var/www/sms/lib/Cake/Core/App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/sms/ap...', 21, Array)
+#3 /var/www/sms/lib/Cake/Core/App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-06-14 00:49:10 Error: [MissingTableException] Table sms for model Sm was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'sms',
+  'class' => 'Sm',
+  'ds' => 'default',
+)
+Request URL: /admin/sms
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Model.php(3231): Model->setSource('sms')
+#1 /var/www/sms/lib/Cake/Model/Model.php(1319): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Model/Model.php(1402): Model->schema()
+#3 /var/www/sms/lib/Cake/Model/Model.php(1390): Model->hasField('title', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(879): Model->hasField(Array)
+#5 /var/www/sms/lib/Cake/Controller/Scaffold.php(132): Model->__get('displayField')
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(531): Scaffold->__construct(Object(SmsController), Object(CakeRequest))
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(SmsController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-06-14 00:50:17 Error: [MissingTableException] Table sms for model Sm was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'sms',
+  'class' => 'Sm',
+  'ds' => 'default',
+)
+Request URL: /admin/sms
+Stack Trace:
+#0 /var/www/sms/lib/Cake/Model/Model.php(3231): Model->setSource('sms')
+#1 /var/www/sms/lib/Cake/Model/Model.php(1319): Model->getDataSource()
+#2 /var/www/sms/lib/Cake/Model/Model.php(1402): Model->schema()
+#3 /var/www/sms/lib/Cake/Model/Model.php(1390): Model->hasField('title', false)
+#4 /var/www/sms/lib/Cake/Model/Model.php(879): Model->hasField(Array)
+#5 /var/www/sms/lib/Cake/Controller/Scaffold.php(132): Model->__get('displayField')
+#6 /var/www/sms/lib/Cake/Controller/Controller.php(531): Scaffold->__construct(Object(SmsController), Object(CakeRequest))
+#7 /var/www/sms/lib/Cake/Controller/Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#8 /var/www/sms/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(SmsController), Object(CakeRequest), Object(CakeResponse))
+#10 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-06-14 00:55:27 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/reset_password.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/reset_password.ctp',
+)
+Request URL: /users/resetPassword
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-06-14 00:55:38 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/reset_password.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/reset_password.ctp',
+)
+Request URL: /users/resetPassword
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-06-19 14:06:44 Error: [MissingViewException] View file "/var/www/sms/app/View/Users/reset_password.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/sms/app/View/Users/reset_password.ctp',
+)
+Request URL: /users/resetPassword
+Stack Trace:
+#0 /var/www/sms/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/sms/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /var/www/sms/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /var/www/sms/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/sms/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
